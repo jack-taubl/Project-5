@@ -69,9 +69,7 @@ The program consists of the following methods:
 
 ### Example
 
-Here is an example of the program in action:
-
-yaml
+- Here is an example of the program in action:
 
 Enter an array of unsorted numbers: 
 Example: 5 9 7 13 11 25 14 18
