@@ -1,0 +1,7 @@
+To compile and run this program I used this syntax 
+
+# compile to Main.class
+javac Main.java 
+
+# to run 
+java Main

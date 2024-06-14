@@ -1,0 +1,3 @@
+The command used to generate these java docs is:
+
+javadoc -d docs Main.java
